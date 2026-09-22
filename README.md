@@ -10,4 +10,3 @@ To provide basic healthcare information through a simple application.
 - Simple user-friendly interface
 - Basic healthcare information
 - Easy access to health details
--
